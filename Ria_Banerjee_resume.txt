@@ -1,0 +1,47 @@
+RIA BANERJEE:
+Charlotte, North Carolina|banerjee.ria24@gmail.com|+1 (980)-944-5750| linkedin.com/in/ria-banerjee-49666b133/ 
+
+Experienced Full Stack Developer adept in building robust web applications using Python and Java Frameworks. Proficient in REST, SQL databases, DevOps tools like Docker and Kubernetes, cloud services like Google Cloud Platform and Amazon Web Services. Strong concepts of Systems Development Life Cycle (SDLC), Object Oriented Programming (OOP) and Agile.
+
+EDUCATION:
+University of North Carolina Charlotte| Masters in Computer Science		Aug 2022 - May 2024 | Charlotte, NC
+Nirma University| Masters of Computer Applications				Aug 2019 - May 2021 | India
+Ahmedabad University | Bachelors of Computer Applications			Aug 2016 - May 2019 | India
+
+SKILLS:
+Technical/ Programming Skills: Python, Java, C# .NET, C, C++, Shell/ Bash, Linux/Unix
+Web Technologies: Django, Flask, SpringBoot, React, Node, HTML, CSS
+Database: MySQL, PostgreSQL, MongoDB
+DevOps/ Tools : Kubernetes, Docker, GCP, AWS, Kafka, Grafana, REST API, Git, Redis, JIRA, Nginx
+Machine Learning / AI:   Pandas, TensorFlow, Keras, SkLearn, HuggingFace
+
+WORK EXPERIENCE
+BabelCast Inc. | Full Stack Python Developer					Oct 2023 - Jan 2024 | Chicago, IL
+Tech Stack: Python, Flask, REST, GCP, Docker, Kubernetes
+•	Developed a voice-changer application, creating REST API to integrate AWS S3 and ElectronJS. 
+•	Deployed scalable backend on GKE/GCP, supporting 50K users at once, while monitoring latency on CPU vs GPU.
+•	Conducted load/stress and unit/integration testing, performed code reviews, for cross-functional integration.
+
+University of North Carolina, Charlotte	| Research Assistant (Python)		Mar 2023 - Oct 2023 | Charlotte, NC
+Tech Stack: Python, TensorFlow, Machine Learning, Data Analysis
+•	Contributed to Healthcare Research by streaming biomedical data and integrating it with Virtual Reality platforms.
+•	Achieved 78.5% accuracy with deep learning models, reducing anxiety by 45% through VR integration.
+
+Tata Consultancy Services | Systems Engineer (Java)				May 2021 - Aug 2022 | India
+Tech Stack: Java, SpringBoot, Maven, GCP, Kubernetes, SQL, Grafana
+•	Crafted Java-based enterprise microservices for Insurance client, managing up to 6 different applications.
+•	Managed CI/CD using ServiceNow and Jenkins, achieving 95% successful releases.
+•	Managed vulnerabilities using Nexus LifeCycle and SonarQube, monitoring using Grafana.
+
+PROJECTS
+Web based Face Recognition Attendance System using Siamese Neural Network (Python)
+Tech Stack: Python, Flask, AWS, NginX, MySQL, OpenCV
+Trained Face Recognition algorithm, achieving an impressive accuracy rate of 90%.
+Containerized the app to host Docker images on AWS ECR, connecting Flask + nginx + gunicorn endpoint to access on EC2.
+
+Recommendation System for Movies recommendation (Python)
+Tech Stack: Python, Django, GCP, Redis, PostgreSQL, Scikit-learn
+Created a movie recommendation system with Django, GCP for deployment, Redis for caching, and PostgreSQL for database management, employing collaborative filtering and content-based filtering for personalized recommendations.
+
+PUBLICATION
+‘Recommendation Systems Based on Collaborative Filtering Using Autoencoders: Issues and Opportunities’   At International Conference on Recent Innovations in Computing. DOI:10.1007/978-981-15-8297-4_32.
