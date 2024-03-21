@@ -1,5 +1,5 @@
 import os
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "HUGGING_FACE_TOKEN"
 
 from langchain.document_loaders import TextLoader
 loader = TextLoader('./Ria_Banerjee_resume.txt')
